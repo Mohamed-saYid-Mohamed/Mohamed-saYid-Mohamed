@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programing languege
   - 📫 How to reach me deeqsi3030@gmail.com
 - 😄 Pronouns: https://github.com/Mohamed-saYid-Mohame
-- ⚡ Fun fact: ...
+
 
 <!---
 Mohamed-saYid-Mohamed/Mohamed-saYid-Mohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
