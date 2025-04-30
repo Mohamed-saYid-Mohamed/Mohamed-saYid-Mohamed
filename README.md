@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed-saYid-Mohamed
-- 👀 I’m frontend
-- 🌱 I’m currently learning programing languege
+- 👀 I’m frontend / i also know About Networking
+- 🌱 I’m currently learning programing languege and networking
 - 📫 How to reach me deeqsi3030@gmail.com
 - 😄 Pronouns: https://github.com/Mohamed-saYid-Mohame
 
