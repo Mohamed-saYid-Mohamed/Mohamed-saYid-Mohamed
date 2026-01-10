@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 🎓 Computer Science Student  
 💻 Front-End Developer  
-🌐 Web Development Enthusiast  
+🌐 Web Development E
 📱 Learning Mobile App Development  
 🔥 Passionate about building real projects  
 
