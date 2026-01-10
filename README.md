@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0AFFEF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohamed+Sayid+Mohamed;Front-End+Developer;Computer+Science+Student;Welcome+to+my+GitHub" />
+</p>
 
-<!--
-**Mohamed-saYid-Mohamed/Mohamed-saYid-Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+🎓 Computer Science Student  
+💻 Front-End Developer  
+🌐 Web Development Enthusiast  
+📱 Learning Mobile App Development  
+🔥 Passionate about building real projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-purple)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+
+### Mobile (Intermediate)
+![Java](https://img.shields.io/badge/Java-orange)
+![Android](https://img.shields.io/badge/Android-green)
+
+---
+
+## 📊 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-saYid-Mohamed&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-saYid-Mohamed&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projects
+
+### 🆘 Emergency Incident Reporting System
+🔹 Flutter + API  
+🔹 Real-time emergency reporting  
+🔹 Location tracking  
+
+### 🌐 Personal Portfolio Website
+🔹 HTML, CSS, JavaScript  
+🔹 Responsive design  
+🔹 Modern UI  
+
+### 🛒 E-commerce Website
+🔹 React + PHP  
+🔹 Admin dashboard  
+🔹 Payment integration  
+
+---
+
+## 📫 Contact
+✉️ Email: mohammeddeeqsi90@gmail.com  
+🌍 Somalia
