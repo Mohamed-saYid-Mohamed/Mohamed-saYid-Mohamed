@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 🎓 Computer Science Student  
-💻 Full-Stack Developer
+💻Full-Stack Developer
 🌐 Web Development   
 📱 Learning Mobile App Development  
 🔥 Passionate about building real projects  
