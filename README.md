@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0AFFEF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohamed+Sayid+Mohamed;Front-End+Developer;Computer+Science+Student;Welcome+to+my+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0AFFEF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohamed+Sayid+Mohamed;Full-Stack+Developer;Computer+Science+Student;Welcome+to+my+GitHub" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 🎓 Computer Science Student  
-💻Full-Stack Developer
-🌐 Web Development   
+💻 Full-Stack Developer  
+🌐 Web & Backend Development  
 📱 Learning Mobile App Development  
-🔥 Passionate about building real projects  
+🔥 Passionate about building real-world projects  
 
 ---
 
@@ -24,6 +24,7 @@
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Node](https://img.shields.io/badge/Node.js-green)
 
 ### Mobile (Intermediate)
 ![Java](https://img.shields.io/badge/Java-orange)
@@ -43,7 +44,7 @@
 ### 🆘 Emergency Incident Reporting System
 🔹 Flutter + API  
 🔹 Real-time emergency reporting  
-🔹 Location tracking  
+  
 
 ### 🌐 Personal Portfolio Website
 🔹 HTML, CSS, JavaScript  
@@ -53,10 +54,9 @@
 ### 🛒 E-commerce Website
 🔹 React + PHP  
 🔹 Admin dashboard  
-🔹 Payment integration  
 
 ---
 
 ## 📫 Contact
-✉️ Email: mohammeddeeqsi90@gmail.com  
+✉️ Email: **mohammeddeeqsi90@gmail.com**  
 🌍 Somalia
