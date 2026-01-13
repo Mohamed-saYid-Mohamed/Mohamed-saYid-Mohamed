@@ -24,7 +24,7 @@
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
-![Node](https://img.shields.io/badge/Node.js-green)
+
 
 ### Mobile (Intermediate)
 ![Java](https://img.shields.io/badge/Java-orange)
