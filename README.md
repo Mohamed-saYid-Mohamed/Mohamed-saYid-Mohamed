@@ -8,7 +8,7 @@
 
 🎓 Information Technology Student at Zamzam University  
 💻 Full-Stack Developer passionate about building scalable applications  
-🗄️ Backend & Database Engineer  
+
 🤖 Artificial Intelligence Enthusiast  
 ☁️ Learning SaaS Development & Cloud Technologies  
 📱 Mobile Application Developer (Flutter)  
@@ -39,7 +39,7 @@
 
 ---
 
-## 🗄️ Database & Cloud
+## 🗄️ Database 
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
@@ -59,9 +59,9 @@
 
 - 🤖 Artificial Intelligence & Machine Learning
 - ☁️ SaaS Application Development
-- 🔐 Cyber Security & Networking
+
 - 🏗️ Scalable Backend Systems
-- 📊 Database Architecture
+- 📊 Database 
 
 ---
 
