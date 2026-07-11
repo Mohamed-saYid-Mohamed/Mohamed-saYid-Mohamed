@@ -85,9 +85,8 @@
 
 - 🚀 Full-Stack Development
 - 🤖 Artificial Intelligence
-- 🗄️ Database Engineering
 - ☁️ SaaS Development
-- 🔐 Network Security
+- 🔐 Networkig
 - 📱 Mobile App Development
 
 ---
