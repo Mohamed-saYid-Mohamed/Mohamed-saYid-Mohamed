@@ -8,9 +8,7 @@
 
 🎓 Information Technology Student at Zamzam University  
 💻 Full-Stack Developer passionate about building scalable applications  
-
-🤖 Artificial Intelligence Enthusiast  
-☁️ Learning SaaS Development & Cloud Technologies  
+🤖 Artificial Intelligence Enthusiast   
 📱 Mobile Application Developer (Flutter)  
 🔥 Building real-world systems that solve problems  
 
