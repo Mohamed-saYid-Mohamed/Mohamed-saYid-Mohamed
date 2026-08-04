@@ -1,10 +1,4 @@
-<div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Mohamed Sayid Mohamed banner" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
