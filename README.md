@@ -9,7 +9,7 @@ Building scalable web apps and AI-powered systems from Somalia 🇸🇴
 
 <a href="https://linkedin.com/in/mohanadam2233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/mohanadam2233"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="mailto:mohanadam2233@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:deeqsi3030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
