@@ -4,7 +4,7 @@
 
 # Mohamed saYid
 
-**Full Stack Developer · AI Engineer**
+**Full Stack Developer · AI Engineer .**
 
 Building scalable web apps and AI-powered systems from Somalia 🇸🇴
 
