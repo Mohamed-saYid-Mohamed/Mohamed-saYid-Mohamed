@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,php,mysql,firebase,react&theme=dark" height="42" />
+<img src="https://skillicons.dev/icons?i=python,javascript,php,mysql,firebase,react,flutter&theme=dark" height="42" />
 
-# Mohamed saYid
+# Hi, I'm Mohamed Sayid 👋
 
-**Full Stack Developer · AI Engineer .**
+### Full-Stack Software Developer | AI Enthusiast
 
-Building scalable web apps and AI-powered systems from Somalia 🇸🇴
+Building practical web, mobile, and AI-powered applications from Somalia 🇸🇴
 
 <a href="https://www.linkedin.com/in/mohamed-sayid-mohamed-7b2939336">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -20,16 +20,62 @@ Building scalable web apps and AI-powered systems from Somalia 🇸🇴
 
 <br>
 
-I focus on clean architecture and practical engineering — from full-stack products to LLM and RAG-driven tools.
+## 👨‍💻 About Me
 
-### Projects
+I'm a Full-Stack Software Developer and Computer Science student passionate about building real-world applications and solving practical problems with technology.
 
-| Project                                                                     | Description                        |
-| --------------------------------------------------------------------------- | ---------------------------------- |
-| **[git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp)** | Git & GitHub fundamentals bootcamp |
+I enjoy working across the full development process — from designing user interfaces and building APIs to working with databases and exploring AI-powered solutions.
 
-### Skills
+- 💻 Building full-stack web applications
+- 📱 Developing mobile applications with Flutter
+- 🤖 Exploring AI, LLMs, 
+- 🧠 Learning modern software engineering practices
+- 🚀 Turning ideas into practical digital products
+- 🇸🇴 Building technology from Somalia
 
-`Python` `JavaScript` `PHP` `MySQL` `Firebase` `React`
+## 🛠️ Tech Stack
 
-<br>
+**Languages & Frameworks**
+
+`Python` `JavaScript` `PHP` `React` `Flutter`
+
+**Database & Backend**
+
+`MySQL` `Firebase`
+
+**Currently Exploring**
+
+`Artificial Intelligence` `LLMs` `RAG` `APIs`
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[Git & GitHub Bootcamp](https://github.com/goobolabs/git-github-bootcamp)** | Git & GitHub fundamentals bootcamp |
+| **More projects coming soon...** | Building and documenting new projects |
+
+## 📚 Currently Learning
+
+- Artificial Intelligence & LLMs
+- RAG-based applications
+- Advanced React development
+- Backend architecture
+- Software engineering best practices
+
+## 🎯 My Goal
+
+> Build useful technology, keep learning, and create solutions that solve real-world problems.
+
+## 📫 Let's Connect
+
+If you're interested in technology, software development, AI, or collaboration, feel free to connect with me.
+
+**Keep learning. Keep building. Keep shipping. 🚀**
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+</div>
